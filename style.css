@@ -1,1 +1,13 @@
-
+img{
+    width: 99px;
+}
+.Arsenal{
+    width: 149px;
+    display: flex; 
+    justify-content: flex-start;
+}
+.Real-Madrid {
+    width: 25px;
+    display: flex;
+    justify-content: flex-start;  
+}
